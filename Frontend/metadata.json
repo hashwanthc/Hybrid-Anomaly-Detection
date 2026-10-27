@@ -1,0 +1,6 @@
+
+{
+  "name": "Hybrid Anomaly Detection System",
+  "description": "A high-performance SaaS-style dashboard for detecting network or system anomalies using a hybrid model approach (Isolation Forest & Autoencoders).",
+  "requestFramePermissions": []
+}
